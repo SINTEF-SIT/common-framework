@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.6.1.2.2.2.1:1", "", "ShipmentStage", "EARoot/EA6/EA1/EA2/EA2/EA2/EA1/EA1692.htm", "182.png", "1383", "0", "", "CompositeStructure diagram0","{04A54109-3EB1-4ecb-83C9-F5C638A20E2A}");
+tocTab[tocTab.length] = new Array("0.6.1.2.2.2.1:2", "", "«MWB» ShipmentStage", "EARoot/EA6/EA1/EA2/EA2/EA2/EA1/EA1694.htm", "5.png", "5126", "0", "", "Class0","{90BEA1C2-0D23-449f-B7F6-F546A90EEC8A}");

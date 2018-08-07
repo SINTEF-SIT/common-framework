@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.3.3:1", "", "Logistics Demand", "EARoot/EA3/EA3/EA117.htm", "180.png", "359", "0", "", "Use Case diagram0","{279B24EE-225D-4384-86B7-931B9308987A}");
+tocTab[tocTab.length] = new Array("0.3.3:2", "", "«role» Logistics Service Client", "EARoot/EA3/EA3/EA120.htm", "6.png", "6", "0", "", "Actor0","{8BD29D24-DE3E-42d1-A51E-55AAAFBF426D}");

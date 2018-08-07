@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.5:1", "", "Transportation Network Management", "EARoot/EA3/EA5/EA133.htm", "180.png", "362", "0", "", "Use Case diagram0","{F19A7690-B5DB-4a35-A15F-5B2B60977922}");
+tocTab[tocTab.length] = new Array("0.3.5:2", "", "Transport Network Manager", "EARoot/EA3/EA5/EA135.htm", "6.png", "4194", "0", "", "Actor0","{7E488D0F-0446-4318-9083-F30737F029D2}");
+tocTab[tocTab.length] = new Array("0.3.5:3", "", "«sub-role» Network Infrastructure Manager (Transport Network Manager)", "EARoot/EA3/EA5/EA137.htm", "6.png", "3850", "0", "", "Actor0","{CA5571DD-5633-4383-AD6A-58498781064A}");
+tocTab[tocTab.length] = new Array("0.3.5:4", "", "«sub-role» Network Utilisation Manager (Transport Network Manager)", "EARoot/EA3/EA5/EA138.htm", "6.png", "3851", "0", "", "Actor0","{3495FCB4-2103-47a6-81F7-6E7768AF49A8}");
+tocTab[tocTab.length] = new Array("0.3.5:5", "", "«sub-role» Emergency Capability and Response Manager (Transport Network Manager)", "EARoot/EA3/EA5/EA139.htm", "6.png", "3852", "0", "", "Actor0","{EE721FA9-8BC3-4618-95C3-A805839089E9}");

@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.3.3:2", "", "Manage Emergencies and Preparedness", "EARoot/EA4/EA3/EA3/EA477.htm", "7.png", "3884", "0", "", "UseCase0","{B41B6EC6-9E8E-4dc9-A631-177127226E46}");
+tocTab[tocTab.length] = new Array("0.4.3.3:1", "", "Manage emergencies and preparedness", "EARoot/EA4/EA3/EA3/EA475.htm", "180.png", "1156", "3884", "", "Use Case diagram0","{E1BF9B49-B544-41b9-A5D6-6A59ECCF8089}");
+tocTab[tocTab.length] = new Array("0.4.3.3:3", "", "Manage Emergency Abatement", "EARoot/EA4/EA3/EA3/EA479.htm", "7.png", "3886", "3884", "", "UseCase0","{CA1AC271-C128-4746-BA4D-D822958380D2}");
+tocTab[tocTab.length] = new Array("0.4.3.3:4", "", "Manage emergency preparedness", "EARoot/EA4/EA3/EA3/EA480.htm", "7.png", "3887", "3884", "", "UseCase0","{5D6DDEBE-EF34-4230-9315-E7669A6B9576}");

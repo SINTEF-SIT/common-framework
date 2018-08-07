@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.5.1", "1", "Roles (Pools)", "EARoot/EA5/EA508.htm", "4.png", "", "", "{38DE50A4-1FB6-4624-8BCF-0F492B708791}", "Package");
+tocTab[tocTab.length] = new Array("0.5.2", "1", "Logistics Demand", "EARoot/EA5/EA509.htm", "4.png", "", "", "{AD4FC6F7-2937-4f78-8870-471804E32771}", "Package");
+tocTab[tocTab.length] = new Array("0.5.3", "1", "Logistics Supply", "EARoot/EA5/EA510.htm", "4.png", "", "", "{D70A4652-4AB3-4cd1-AD03-AA7F3A1460D4}", "Package");
+tocTab[tocTab.length] = new Array("0.5.4", "1", "Transport Network Management", "EARoot/EA5/EA511.htm", "4.png", "", "", "{3D8AE307-C1CE-407e-8893-CF73642C4417}", "Package");
+tocTab[tocTab.length] = new Array("0.5.5", "1", "Regulation Enforcement", "EARoot/EA5/EA512.htm", "4.png", "", "", "{D0F34EDC-8B14-41ee-9FCB-2F57A5FA7785}", "Package");

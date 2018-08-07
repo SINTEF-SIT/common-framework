@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.1.2.3:1", "", "Goods Item Itinerary (GII)", "EARoot/EA6/EA1/EA2/EA3/EA1695.htm", "185.png", "1384", "0", "", "Sequence diagram0","{DC850690-B3ED-44d0-A3A4-288C6DFCC503}");
+tocTab[tocTab.length] = new Array("0.6.1.2.3:2", "", "Logistics Service Client", "EARoot/EA6/EA1/EA2/EA3/EA1712.htm", "6.png", "5129", "0", "", "Actor0","{86BDA3AE-ED90-48a1-8EE5-38E8BED88948}");
+tocTab[tocTab.length] = new Array("0.6.1.2.3:3", "", "Logistics Service Provider", "EARoot/EA6/EA1/EA2/EA3/EA1713.htm", "6.png", "5130", "0", "", "Actor0","{BA5C6424-55E9-48a2-AD2A-9D42A8BE58CA}");
+tocTab[tocTab.length] = new Array("0.6.1.2.3.1", "1", "GoodsItemItinerary", "EARoot/EA6/EA1/EA2/EA3/EA1714.htm", "4.png", "", "", "{209A7C05-BF5C-4532-835F-459D4B50D940}", "Package");

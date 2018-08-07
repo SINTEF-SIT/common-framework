@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.6.1.2.7.1:1", "", "TransportationStatusRequest", "EARoot/EA6/EA1/EA2/EA7/EA1/EA1839.htm", "175.png", "1396", "0", "", "Logical diagram0","{F40A46E8-AE43-48b6-A498-29EAB43E3446}");
+tocTab[tocTab.length] = new Array("0.6.1.2.7.1:2", "", "«Message» TransportationStatusRequest", "EARoot/EA6/EA1/EA2/EA7/EA1/EA1841.htm", "5.png", "5251", "0", "", "Class0","{2BE782A1-4FA3-4522-B5E5-340F517420A9}");

@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.4.2:2", "", "Physically Inspect Objects, Documents and Persons", "EARoot/EA4/EA4/EA2/EA500.htm", "7.png", "4769", "0", "", "UseCase0","{A3C44E46-6796-4e69-A750-C0274252BD03}");
+tocTab[tocTab.length] = new Array("0.4.4.2:1", "", "Physically Inspect Objects, Documents and Persons", "EARoot/EA4/EA4/EA2/EA498.htm", "180.png", "1248", "4769", "", "Use Case diagram0","{37B00A98-3416-446e-AB47-10D92E1ECC6C}");
+tocTab[tocTab.length] = new Array("0.4.4.2:3", "", "Carry out physical inspections", "EARoot/EA4/EA4/EA2/EA501.htm", "7.png", "3876", "4769", "", "UseCase0","{91B4F84C-0424-4905-B973-CA94E8ED68D2}");
+tocTab[tocTab.length] = new Array("0.4.4.2:4", "", "Manage physical inspections", "EARoot/EA4/EA4/EA2/EA502.htm", "7.png", "3875", "4769", "", "UseCase0","{C9E7A15D-F01C-4b07-BC8F-26D2BF6BBA81}");

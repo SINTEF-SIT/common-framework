@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.1.2.7:1", "", "Transportation Status (TS)", "EARoot/EA6/EA1/EA2/EA7/EA1812.htm", "185.png", "1395", "0", "", "Sequence diagram0","{570ACEC4-3800-4ba3-BC4D-833E81549572}");
+tocTab[tocTab.length] = new Array("0.6.1.2.7.1", "1", "TransportationStatusRequest", "EARoot/EA6/EA1/EA2/EA7/EA1837.htm", "4.png", "", "", "{9D61BAC3-9E9D-42ab-A030-8F4A21A73ABA}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.7.2", "1", "TransportationStatus", "EARoot/EA6/EA1/EA2/EA7/EA1838.htm", "4.png", "", "", "{78398DB3-6566-4f86-9793-F7B432FE197E}", "Package");

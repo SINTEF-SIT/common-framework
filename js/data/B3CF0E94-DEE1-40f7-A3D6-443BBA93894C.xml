@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.1.2.1.2.5:1", "", "MaritimeDeclarationOfHealth", "EARoot/EA6/EA1/EA2/EA1/EA2/EA5/EA1624.htm", "182.png", "1367", "0", "", "CompositeStructure diagram0","{D651E0DF-9D3A-4bda-8369-6086D1F3FF0B}");
+tocTab[tocTab.length] = new Array("0.6.1.2.1.2.5:2", "", "«CRS» MaritimeDeclarationOfHealth", "EARoot/EA6/EA1/EA2/EA1/EA2/EA5/EA1626.htm", "5.png", "5077", "0", "", "Class0","{331C41DE-A79D-42d7-B1DD-E85D84664295}");
+tocTab[tocTab.length] = new Array("0.6.1.2.1.2.5:3", "", "«CRS» PersonnelHealthIncident", "EARoot/EA6/EA1/EA2/EA1/EA2/EA5/EA1627.htm", "5.png", "5078", "0", "", "Class0","{E14D5735-B8D1-4142-856B-9025A52286AF}");
+tocTab[tocTab.length] = new Array("0.6.1.2.1.2.5:4", "", "«CRS» SanitaryMeasure", "EARoot/EA6/EA1/EA2/EA1/EA2/EA5/EA1628.htm", "5.png", "5079", "0", "", "Class0","{59AD05C3-86EF-4cee-9F04-7E36BD07DD77}");
+tocTab[tocTab.length] = new Array("0.6.1.2.1.2.5:5", "", "«CRS» WHOAffectedAreaVisit", "EARoot/EA6/EA1/EA2/EA1/EA2/EA5/EA1629.htm", "5.png", "5080", "0", "", "Class0","{B0AB21EB-4E2C-43e9-A82A-6B3B4D2E5E78}");

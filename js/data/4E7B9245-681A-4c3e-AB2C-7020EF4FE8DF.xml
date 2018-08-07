@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.3.1:1", "", "«actor» Manufacturer", "EARoot/EA3/EA1/EA99.htm", "6.png", "3866", "0", "", "Actor0","{01367F79-5778-4853-BF89-849465813FA1}");
+tocTab[tocTab.length] = new Array("0.3.1:2", "", "«actor» Carrier", "EARoot/EA3/EA1/EA100.htm", "6.png", "3844", "0", "", "Actor0","{4A7D069C-6E09-433a-821F-0F6EDD85F82F}");
+tocTab[tocTab.length] = new Array("0.3.1:3", "", "«actor» Freight Forwarder", "EARoot/EA3/EA1/EA101.htm", "6.png", "3839", "0", "", "Actor0","{789EF5D4-747D-48f6-A1AA-2D15EAD43ADA}");
+tocTab[tocTab.length] = new Array("0.3.1:4", "", "«actor» Ship Master", "EARoot/EA3/EA1/EA102.htm", "6.png", "3861", "0", "", "Actor0","{3C73A4E1-91FC-4242-9FEC-E93635154700}");
+tocTab[tocTab.length] = new Array("0.3.1:5", "", "«actor» Police", "EARoot/EA3/EA1/EA103.htm", "6.png", "3837", "0", "", "Actor0","{11F7ECE2-2CCF-4de7-85B8-355DDA88FED4}");
+tocTab[tocTab.length] = new Array("0.3.1:6", "", "«actor» Port Authority", "EARoot/EA3/EA1/EA104.htm", "6.png", "3841", "0", "", "Actor0","{2315005C-2913-4542-9611-23F624849B2F}");
+tocTab[tocTab.length] = new Array("0.3.1:7", "", "«actor» Port Terminal", "EARoot/EA3/EA1/EA105.htm", "6.png", "3843", "0", "", "Actor0","{5CE780DD-2654-4adf-AFCB-DAEBA06652DF}");
+tocTab[tocTab.length] = new Array("0.3.1:8", "", "«actor» National Maritime Authority", "EARoot/EA3/EA1/EA106.htm", "6.png", "3860", "0", "", "Actor0","{108569EA-4244-4cee-BF51-9172C7D1CC6A}");
+tocTab[tocTab.length] = new Array("0.3.1:9", "", "«system-actor» National Single Window", "EARoot/EA3/EA1/EA107.htm", "6.png", "3842", "0", "", "Actor0","{1F83289A-E17C-43d9-9D9C-6265DB822AE0}");
+tocTab[tocTab.length] = new Array("0.3.1:10", "", "«system-actor» Export Control System", "EARoot/EA3/EA1/EA108.htm", "6.png", "3840", "0", "", "Actor0","{1A795166-0597-4219-B74F-367BFB4F458F}");
+tocTab[tocTab.length] = new Array("0.3.1:11", "", "«system-actor» Import Control System", "EARoot/EA3/EA1/EA109.htm", "6.png", "3838", "0", "", "Actor0","{988E4175-C5C6-44a0-B77D-B4B739176CEE}");

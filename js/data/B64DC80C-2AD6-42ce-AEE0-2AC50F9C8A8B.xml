@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.1.2.2.1:1", "", "MultimodalWaybill", "EARoot/EA6/EA1/EA2/EA2/EA1/EA1685.htm", "175.png", "1381", "0", "", "Logical diagram0","{B5E455F2-2B8B-4408-A095-26F0F8403945}");
+tocTab[tocTab.length] = new Array("0.6.1.2.2.1:2", "", "MultimodalWaybill - Hand Drawn", "EARoot/EA6/EA1/EA2/EA2/EA1/EA1687.htm", "175.png", "1382", "0", "", "Logical diagram0","{5E2EB58F-FFC5-46cf-B9D8-D53CAD2C4FF8}");
+tocTab[tocTab.length] = new Array("0.6.1.2.2.1:3", "", "«Message» MultimodalWaybill", "EARoot/EA6/EA1/EA2/EA2/EA1/EA1689.htm", "5.png", "5122", "0", "", "Class0","{A0170F70-8503-4ce4-9CB6-C47BA2A38ED0}");
+tocTab[tocTab.length] = new Array("0.6.1.2.2.1:4", "", "«e-Freight» Authentication", "EARoot/EA6/EA1/EA2/EA2/EA1/EA1690.htm", "5.png", "5123", "0", "", "Class0","{A2BC944A-25C0-4246-819E-45BD51016D03}");

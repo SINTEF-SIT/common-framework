@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.4.4.1:3", "", "Monitor Compliance", "EARoot/EA4/EA4/EA1/EA491.htm", "7.png", "4770", "0", "", "UseCase0","{1217BB74-4650-49cb-8166-5089678FD940}");
+tocTab[tocTab.length] = new Array("0.4.4.1:2", "", "Monitor Compliance", "EARoot/EA4/EA4/EA1/EA489.htm", "180.png", "1247", "4770", "", "Use Case diagram0","{616844E6-1255-4c5a-8F00-E17B10883E57}");
+tocTab[tocTab.length] = new Array("0.4.4.1:8", "", "Manage collection and distribution of information", "EARoot/EA4/EA4/EA1/EA496.htm", "7.png", "3878", "4770", "", "UseCase0","{9980D241-DF30-4506-9356-4D1CDF6EF22D}");
+tocTab[tocTab.length] = new Array("0.4.4.1:9", "", "Perform analysis and assessment", "EARoot/EA4/EA4/EA1/EA497.htm", "7.png", "3879", "4770", "", "UseCase0","{E7CEF493-FBD4-4d18-B39A-5A7E5D0E5D63}");
+tocTab[tocTab.length] = new Array("0.4.4.1:1", "", "Manage collection and distribution of information", "EARoot/EA4/EA4/EA1/EA487.htm", "180.png", "1157", "3878", "", "Use Case diagram0","{0896D066-2974-43d9-B8FF-933B18717987}");
+tocTab[tocTab.length] = new Array("0.4.4.1:4", "", "Manage internal databases", "EARoot/EA4/EA4/EA1/EA492.htm", "7.png", "3880", "3878", "", "UseCase0","{908C680B-2943-4c26-B417-2CFA25ED40EE}");
+tocTab[tocTab.length] = new Array("0.4.4.1:5", "", "Exchange information with other Regulators", "EARoot/EA4/EA4/EA1/EA493.htm", "7.png", "1017", "3878", "", "UseCase0","{83E54946-6436-46f9-A7CB-73DDCE5D25EC}");
+tocTab[tocTab.length] = new Array("0.4.4.1:6", "", "Process Regulatory Information", "EARoot/EA4/EA4/EA1/EA494.htm", "7.png", "1015", "3878", "", "UseCase0","{B5991D97-8727-4071-9E2D-519F3C8151D0}");
+tocTab[tocTab.length] = new Array("0.4.4.1:7", "", "Receive intelligence", "EARoot/EA4/EA4/EA1/EA495.htm", "7.png", "1014", "3878", "", "UseCase0","{F71196FE-0681-42b4-8DE3-0D38DB5EBEF6}");

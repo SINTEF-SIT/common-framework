@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.1.2.1:1", "", "Common Reporting Schema (CRS)", "EARoot/EA6/EA1/EA2/EA1/EA1537.htm", "185.png", "1353", "0", "", "Sequence diagram0","{67DC3BCB-1444-4210-9D3A-3EEDDDC8F00B}");
+tocTab[tocTab.length] = new Array("0.6.1.2.1.1", "1", "CommonReportingSchema", "EARoot/EA6/EA1/EA2/EA1/EA1546.htm", "4.png", "", "", "{32540E07-55CC-4adb-99D5-36C2C0688A98}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.1.2", "1", "Extensions", "EARoot/EA6/EA1/EA2/EA1/EA1547.htm", "4.png", "", "", "{EB41D04E-1409-4ef2-AE85-21E03B7B4C21}", "Package");

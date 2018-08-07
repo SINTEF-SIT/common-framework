@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3.4:1", "", "Logistics Supply", "EARoot/EA3/EA4/EA121.htm", "180.png", "360", "0", "", "Use Case diagram0","{5632D935-74E2-4dbe-94FF-58E12AAB2075}");
+tocTab[tocTab.length] = new Array("0.3.4:2", "", "«role» Logistics Service Provider", "EARoot/EA3/EA4/EA128.htm", "6.png", "7", "0", "", "Actor0","{9DD6E466-BCBB-43ec-B5CD-414181FA70F2}");
+tocTab[tocTab.length] = new Array("0.3.4:3", "", "«sub-role» Logistics Service Manager (Logistics Service Provider)", "EARoot/EA3/EA4/EA129.htm", "6.png", "857", "0", "", "Actor0","{2866A00F-9E6E-4ed6-9351-80DD89F9468C}");
+tocTab[tocTab.length] = new Array("0.3.4:4", "", "«sub-role» Logistics Operations Manager (Logistics Service Provider) ", "EARoot/EA3/EA4/EA130.htm", "6.png", "856", "0", "", "Actor0","{2D7FCC23-DC30-4abf-B96E-C77ECCBB7C5F}");
+tocTab[tocTab.length] = new Array("0.3.4:5", "", "«sub-role» Logistics Operations Worker (Logistics Service Provider)", "EARoot/EA3/EA4/EA131.htm", "6.png", "858", "0", "", "Actor0","{1F3AC85E-B8F4-4522-AD09-CFE80F78C109}");
+tocTab[tocTab.length] = new Array("0.3.4:6", "", "«sub-role» On-board Manager (Logistics Service Provider)", "EARoot/EA3/EA4/EA132.htm", "6.png", "859", "0", "", "Actor0","{356CA5D9-6795-42b6-809A-55528B908496}");

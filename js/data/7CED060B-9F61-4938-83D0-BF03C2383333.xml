@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.6.1", "1", "Common Framework Messages", "EARoot/EA6/EA1067.htm", "4.png", "", "", "{66F98A75-7495-4fc9-9DBB-415451FB8A8E}", "Package");
+tocTab[tocTab.length] = new Array("0.6.2", "1", "Common Framework Classes", "EARoot/EA6/EA1068.htm", "4.png", "", "", "{295D5C41-7FE0-4e49-84F1-02FACD6DD8D5}", "Package");

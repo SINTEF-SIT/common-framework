@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.4:1", "", "Regulation Enforcement", "EARoot/EA4/EA4/EA481.htm", "180.png", "1042", "0", "", "Use Case diagram0","{1B175888-90F4-4fc8-80E3-03C74F20D615}");
+tocTab[tocTab.length] = new Array("0.4.4.1", "1", "Monitoring and Assessment", "EARoot/EA4/EA4/EA484.htm", "4.png", "", "", "{91984DDD-F2E5-42a1-B4C3-C1DB545C537A}", "Package");
+tocTab[tocTab.length] = new Array("0.4.4.2", "1", "Physical Inspection", "EARoot/EA4/EA4/EA485.htm", "4.png", "", "", "{E38848CA-D236-4e56-BC4E-ECF3B54A0172}", "Package");
+tocTab[tocTab.length] = new Array("0.4.4.3", "1", "Intervention and Sanction Management", "EARoot/EA4/EA4/EA486.htm", "4.png", "", "", "{49BF549B-24CD-48d3-9C88-BD91180093BB}", "Package");

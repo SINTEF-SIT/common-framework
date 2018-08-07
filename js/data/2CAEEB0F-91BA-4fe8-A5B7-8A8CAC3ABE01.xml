@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.4.2.3:2", "", "Manage Logistics Handling Units", "EARoot/EA4/EA2/EA3/EA326.htm", "7.png", "4188", "0", "", "UseCase0","{F7EE266C-129E-4129-866B-412B772EA5E9}");
+tocTab[tocTab.length] = new Array("0.4.2.3:1", "", "Logistics Handling Unit Management", "EARoot/EA4/EA2/EA3/EA324.htm", "180.png", "1150", "4188", "", "Use Case diagram0","{6A46E778-5965-49fc-A0FF-26787CC9917E}");
+tocTab[tocTab.length] = new Array("0.4.2.3:3", "", "Manage and Report on Transport Operation Execution", "EARoot/EA4/EA2/EA3/EA327.htm", "7.png", "1592", "4188", "", "UseCase0","{0D8788DB-8558-49e2-89A3-8943C0579999}");
+tocTab[tocTab.length] = new Array("0.4.2.3:4", "", "Monitor Logistics Handling Unit Condition", "EARoot/EA4/EA2/EA3/EA328.htm", "7.png", "1590", "4188", "", "UseCase0","{E1E1E486-2486-4404-B9EF-3A00EA64D562}");
+tocTab[tocTab.length] = new Array("0.4.2.3:5", "", "Track Logistics Handling Unit Location", "EARoot/EA4/EA2/EA3/EA329.htm", "7.png", "1589", "4188", "", "UseCase0","{982CEB75-9B74-47b9-B3BE-48CAFF9EC00E}");
+tocTab[tocTab.length] = new Array("0.4.2.3:6", "", "Monitor Logistics Handling Unit Security Issues", "EARoot/EA4/EA2/EA3/EA330.htm", "7.png", "1591", "4188", "", "UseCase0","{C7061EB3-8E21-4536-A6AE-D617F4B89CE1}");

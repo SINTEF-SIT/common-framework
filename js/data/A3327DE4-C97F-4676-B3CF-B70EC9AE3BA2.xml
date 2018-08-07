@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.6.1.1.1", "1", "GoodsItemItinerary (CoreProfile)", "EARoot/EA6/EA1/EA1/EA1071.htm", "4.png", "", "", "{FD3F1D80-69D5-496f-98CC-2335A44FA064}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.2", "1", "TransportationStatus (Core Profile)", "EARoot/EA6/EA1/EA1/EA1072.htm", "4.png", "", "", "{2BEBE9D9-5B9F-45bc-8768-051417C1A5F5}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.3", "1", "TransportationStatusRequest (Core Profile)", "EARoot/EA6/EA1/EA1/EA1073.htm", "4.png", "", "", "{A35ACCDE-0E1B-4c39-A0C8-8D8C0108321A}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.4", "1", "TransportExecutionPlan (CoreProfile)", "EARoot/EA6/EA1/EA1/EA1074.htm", "4.png", "", "", "{BBEB2E27-7267-491b-ACBB-C0C916F652C4}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.5", "1", "TransportExecutionPlanRequest (Core Profile)", "EARoot/EA6/EA1/EA1/EA1075.htm", "4.png", "", "", "{F209E615-9208-49c2-BFB6-264AECF89A44}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.6", "1", "TransportProgressStatus (Core Profile)", "EARoot/EA6/EA1/EA1/EA1076.htm", "4.png", "", "", "{779BC037-54E3-4564-8752-72984C3BCD0C}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.7", "1", "TransportProgressStatusRequest (Core Profile)", "EARoot/EA6/EA1/EA1/EA1077.htm", "4.png", "", "", "{AE55E327-A77D-42d4-9156-5F88AFD134E1}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.8", "1", "TransportServiceDescription (Core Profile)", "EARoot/EA6/EA1/EA1/EA1078.htm", "4.png", "", "", "{A5BC6AAB-DAD6-44b9-9333-8490B2BAE2C0}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.9", "1", "TransportServiceDescriptionRequest (Core Profile)", "EARoot/EA6/EA1/EA1/EA1079.htm", "4.png", "", "", "{5703BC55-A4D5-490c-A110-F4BA18663786}", "Package");

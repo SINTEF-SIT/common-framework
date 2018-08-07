@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.4.2:1", "", "Logistics Supply", "EARoot/EA4/EA2/EA223.htm", "180.png", "1040", "0", "", "Use Case diagram0","{E3DD4BE3-9241-411a-9B6F-831606E65E77}");
+tocTab[tocTab.length] = new Array("0.4.2.1", "1", "Logistics Services Management", "EARoot/EA4/EA2/EA225.htm", "4.png", "", "", "{707B4139-1401-4757-AFD7-DA1FAC9D4FA7}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.2", "1", "Logistics Operations Management", "EARoot/EA4/EA2/EA226.htm", "4.png", "", "", "{CFEF75A7-BE5D-4e93-A5E6-8894256CF53C}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.3", "1", "Logistics Handling Unit Control and Support", "EARoot/EA4/EA2/EA227.htm", "4.png", "", "", "{2CAEEB0F-91BA-4fe8-A5B7-8A8CAC3ABE01}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.4", "1", "On-board Control and Support", "EARoot/EA4/EA2/EA228.htm", "4.png", "", "", "{B70D5BBD-02C8-4441-8456-3029B244B927}", "Package");

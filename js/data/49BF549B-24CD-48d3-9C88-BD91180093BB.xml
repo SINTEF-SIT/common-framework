@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.4.3:2", "", "Manage Actual or Suspected Infringements", "EARoot/EA4/EA4/EA3/EA505.htm", "7.png", "3870", "0", "", "UseCase0","{F6463634-5621-45d8-8012-245DA3AF925E}");
+tocTab[tocTab.length] = new Array("0.4.4.3:1", "", "Manage Actual or Suspected Infringements", "EARoot/EA4/EA4/EA3/EA503.htm", "180.png", "1043", "3870", "", "Use Case diagram0","{E5CFC7D8-3F7B-4b31-9AC3-6BF0BC117EFB}");
+tocTab[tocTab.length] = new Array("0.4.4.3:3", "", "Impose Sanctions", "EARoot/EA4/EA4/EA3/EA506.htm", "7.png", "3873", "3870", "", "UseCase0","{2BDCD79F-2CA8-49c3-9379-4A5B992D50E5}");
+tocTab[tocTab.length] = new Array("0.4.4.3:4", "", "Intervene", "EARoot/EA4/EA4/EA3/EA507.htm", "7.png", "3872", "3870", "", "UseCase0","{2B5D5149-1ABC-4bcf-B992-75BDA0A7D354}");

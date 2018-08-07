@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.6.1.1", "1", "Core Profiles", "EARoot/EA6/EA1/EA1069.htm", "4.png", "", "", "{A3327DE4-C97F-4676-B3CF-B70EC9AE3BA2}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2", "1", "Full Profiles", "EARoot/EA6/EA1/EA1070.htm", "4.png", "", "", "{47503A30-88D5-468c-AAE7-09B92844980C}", "Package");

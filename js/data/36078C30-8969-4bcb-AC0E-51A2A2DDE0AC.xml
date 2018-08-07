@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.6:1", "", "Regulation Management", "EARoot/EA3/EA6/EA140.htm", "180.png", "361", "0", "", "Use Case diagram0","{3D43A214-1E12-4fd0-AB34-B4A038FB759C}");
+tocTab[tocTab.length] = new Array("0.3.6:2", "", "«role» Regulator", "EARoot/EA3/EA6/EA143.htm", "6.png", "9", "0", "", "Actor0","{8E03A7B2-8866-40a8-81D7-4247A5F4C16F}");
+tocTab[tocTab.length] = new Array("0.3.6:3", "", "«sub-role» Analyst", "EARoot/EA3/EA6/EA144.htm", "6.png", "3853", "0", "", "Actor0","{27172730-4771-4917-8665-85AE37EEFED9}");
+tocTab[tocTab.length] = new Array("0.3.6:4", "", "«sub-role» Inspection Authority", "EARoot/EA3/EA6/EA145.htm", "6.png", "3854", "0", "", "Actor0","{17BB7609-2C9A-41ab-BE88-8ADB44145BB4}");
+tocTab[tocTab.length] = new Array("0.3.6:5", "", "«sub-role» Intervention and Sanction Authority", "EARoot/EA3/EA6/EA146.htm", "6.png", "3856", "0", "", "Actor0","{E2FB8BEC-489C-4b00-A03F-40E4A5436827}");

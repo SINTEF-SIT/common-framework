@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.5.5.1", "1", "Monitoring and Assessment", "EARoot/EA5/EA5/EA1009.htm", "4.png", "", "", "{8136F63F-A3A4-4bcc-B2E9-38D9C29C8503}", "Package");
+tocTab[tocTab.length] = new Array("0.5.5.2", "", "Physical Inspection", "EARoot/EA5/EA5/EA1010.htm", "4.png", "", "", "{3467D083-2DB0-40f5-B184-444D21CD7390}", "Package");
+tocTab[tocTab.length] = new Array("0.5.5.3", "", "Intervention and Sanction Management", "EARoot/EA5/EA5/EA1011.htm", "4.png", "", "", "{5718892B-A93B-4444-8725-701925A0A85A}", "Package");

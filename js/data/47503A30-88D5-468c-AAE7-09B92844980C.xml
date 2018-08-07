@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.6.1.2.1", "1", "Common Reporting Schema (CRS)", "EARoot/EA6/EA1/EA2/EA1529.htm", "4.png", "", "", "{7490342B-7D41-417d-A386-C500DCE00DE7}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.2", "1", "Multimodal Waybill (MWB)", "EARoot/EA6/EA1/EA2/EA1530.htm", "4.png", "", "", "{3FC0395B-4B54-4213-B0F6-543F1ADDDA97}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.3", "1", "Goods Item Itinerary (GII)", "EARoot/EA6/EA1/EA2/EA1531.htm", "4.png", "", "", "{970CA17D-B7C5-4f37-9735-5CC1A3593AC5}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.4", "1", "Transport Execution Plan (TEP)", "EARoot/EA6/EA1/EA2/EA1532.htm", "4.png", "", "", "{FBC79380-F732-45ab-A277-7E846E703909}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.5", "1", "Transport Progress Status (TPS)", "EARoot/EA6/EA1/EA2/EA1533.htm", "4.png", "", "", "{92C7497E-24C6-4a0e-99B7-2E1683FF983F}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.6", "1", "Transport Service Description (TSD)", "EARoot/EA6/EA1/EA2/EA1534.htm", "4.png", "", "", "{49A84EE0-A44D-4f91-B5BC-3770C2B72D36}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.7", "1", "Transportation Status (TS)", "EARoot/EA6/EA1/EA2/EA1535.htm", "4.png", "", "", "{12D3E85B-ECAD-4f88-9107-9FEAD04FB7B3}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.2.8", "1", "CommonStructures", "EARoot/EA6/EA1/EA2/EA1536.htm", "4.png", "", "", "{348A8CD9-63A2-47f6-BA33-0736E8D88FD3}", "Package");

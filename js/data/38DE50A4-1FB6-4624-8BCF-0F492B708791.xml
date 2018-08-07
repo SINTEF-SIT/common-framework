@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.5.1:1", "", "Roles (Pools)", "EARoot/EA5/EA1/EA513.htm", "189.png", "26", "0", "", "Analysis diagram0","{6036E7D5-CFC2-437b-8097-D7533CF5E6F9}");
+tocTab[tocTab.length] = new Array("0.5.1:2", "", "«Pool» Logistics Service Client", "EARoot/EA5/EA1/EA515.htm", "116.png", "92", "0", "", "ActivityPartition0","{441EA0C8-9E99-4113-89FF-B75CC1202A96}");
+tocTab[tocTab.length] = new Array("0.5.1:3", "", "«Pool» Logistics Service Provider", "EARoot/EA5/EA1/EA516.htm", "116.png", "93", "0", "", "ActivityPartition0","{992D0522-A6EC-4231-9B52-10C0DC8CC58A}");
+tocTab[tocTab.length] = new Array("0.5.1:4", "", "«Pool» Transport Network Manager", "EARoot/EA5/EA1/EA517.htm", "116.png", "95", "0", "", "ActivityPartition0","{82952BB5-ABB6-46d3-9861-64D461691093}");
+tocTab[tocTab.length] = new Array("0.5.1:5", "", "«Pool» Regulator", "EARoot/EA5/EA1/EA518.htm", "116.png", "94", "0", "", "ActivityPartition0","{C927AF48-0BF3-447d-A90B-0592E78693CB}");
+tocTab[tocTab.length] = new Array("0.5.1:6", "", "«Lane» Logistics Service Manager", "EARoot/EA5/EA1/EA519.htm", "116.png", "4120", "93", "", "ActivityPartition0","{37981C2F-C891-4ae0-BA0B-336D360F6F2D}");
+tocTab[tocTab.length] = new Array("0.5.1:7", "", "«Lane» Logistics Operations Manager", "EARoot/EA5/EA1/EA520.htm", "116.png", "4121", "93", "", "ActivityPartition0","{257A50CC-EDC2-4130-801E-D376E85271F8}");
+tocTab[tocTab.length] = new Array("0.5.1:8", "", "«Lane» Logistics Operations Worker", "EARoot/EA5/EA1/EA521.htm", "116.png", "4122", "93", "", "ActivityPartition0","{D8112568-1217-4fbd-A1CB-1880070CB2CB}");
+tocTab[tocTab.length] = new Array("0.5.1:9", "", "«Lane» On-board Manager", "EARoot/EA5/EA1/EA522.htm", "116.png", "4123", "93", "", "ActivityPartition0","{FE2FCD3F-96F2-4050-83D8-C8C4D06178BD}");
+tocTab[tocTab.length] = new Array("0.5.1:10", "", "«Lane» Network Infrastructure Manager", "EARoot/EA5/EA1/EA523.htm", "116.png", "4476", "95", "", "ActivityPartition0","{2711AA0E-0B1F-4a75-8060-7E8C73937FDC}");
+tocTab[tocTab.length] = new Array("0.5.1:11", "", "«Lane» Network Utilisation Manager", "EARoot/EA5/EA1/EA524.htm", "116.png", "4477", "95", "", "ActivityPartition0","{5A96C2D1-C629-4e85-8736-3AF9C93C0FFD}");
+tocTab[tocTab.length] = new Array("0.5.1:12", "", "«Lane» Network Resource Manager", "EARoot/EA5/EA1/EA525.htm", "116.png", "4482", "95", "", "ActivityPartition0","{FDBA9FE2-33D3-4016-869F-8923C3240AA5}");
+tocTab[tocTab.length] = new Array("0.5.1:13", "", "«Lane» Emergency Capability and Response Manager", "EARoot/EA5/EA1/EA526.htm", "116.png", "4705", "95", "", "ActivityPartition0","{65279FFD-C4D2-4224-B174-F4816F50B815}");
